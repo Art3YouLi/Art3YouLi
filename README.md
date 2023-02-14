@@ -8,8 +8,6 @@
   <div align="center">
     <a href="https://cdn.jsdelivr.net/gh/Art3YouLi/Art3YouLi/assets/images/wechat.jpg"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://blog.csdn.net/qq_33267875/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=Art3YouLi" alt="访客统计" />
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
