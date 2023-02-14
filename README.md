@@ -1,3 +1,4 @@
+# 🙋 Hello
 <div align="center">
 
   <!-- knock code pictures 敲代码的图片 -->
@@ -15,22 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/Art3YouLi/Art3YouLi/profile-snake-contrib/github-contribution-grid-snake.svg" />
 
 </div>
-
-# 🙋 Hello
-
-<table>
-<tr><td>
-
-<!-- About me 关于我 -->
-### 🤺 About Me
-
-<p>&emsp;&emsp;大家好，我是Zeven。</p>
-<p>&emsp;&emsp;励志成为一名资深测试开发!</p>
-<p><strong>&emsp;&emsp;努力努力再努力~</strong></p>
-
-</td></tr>
-
-</table>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Art3YouLi/Art3YouLi/assets/images/hr.gif" />
@@ -70,8 +55,6 @@
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/Art3YouLi/Art3YouLi/assets/images/icon.png" /></div>
 
-<!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/Art3YouLi/Art3YouLi/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
