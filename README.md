@@ -19,7 +19,23 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Art3YouLi/Art3YouLi/assets/images/hr.gif" />
 
 <div align="center" >
+    🤺 About Me
+  <table>
+  <tr><td>
+  <!-- About me 关于我 -->
+    
+  <p>&emsp;&emsp;大家好，我是Zeven</p>
+  <p>&emsp;&emsp;Welcome to my Pokemon project.</p>
+  <p><strong>&emsp;&emsp;这个库包含我所有的工具代码，设计各种语言、各种功能，谨以记录我的职业生涯！！！</strong></p>
+  </td></tr>
+  </table>
+ </div>
+  
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Art3YouLi/Art3YouLi/assets/images/hr.gif" />
 
+<div align="center" >
+  
 <!--  skill badge 技能徽章 -->
 💪 正在学习
 
