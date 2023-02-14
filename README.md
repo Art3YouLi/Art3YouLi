@@ -1,43 +1,38 @@
 # 🙋 Hello
 <div align="center">
-
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/Art3YouLi/Art3YouLi/assets/images/coding.gif" /><br>
-
-  <!-- profile logo 个人资料徽标 -->
-  <div align="center">
-    <a href="https://cdn.jsdelivr.net/gh/Art3YouLi/Art3YouLi/assets/images/wechat.jpg"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://blog.csdn.net/qq_33267875/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-  </div>
-
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="https://cdn.jsdelivr.net/gh/Art3YouLi/Art3YouLi/profile-snake-contrib/github-contribution-grid-snake.svg" />
-
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Art3YouLi/Art3YouLi/assets/images/hr.gif" />
 
+## 🤺 About Me
 <div align="center" >
-    🤺 About Me
   <table>
   <tr><td>
-  <!-- About me 关于我 -->
-    
   <p>&emsp;&emsp;大家好，我是Zeven</p>
   <p>&emsp;&emsp;Welcome to my Pokemon project.</p>
   <p><strong>&emsp;&emsp;这个库包含我所有的工具代码，设计各种语言、各种功能，谨以记录我的职业生涯！！！</strong></p>
   </td></tr>
   </table>
- </div>
+</div>
+<!-- profile logo 个人资料徽标 -->
+<div align="center">
+  <a href="https://cdn.jsdelivr.net/gh/Art3YouLi/Art3YouLi/assets/images/wechat.jpg"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+  <a href="https://blog.csdn.net/qq_33267875/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+</div>
+
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Art3YouLi/Art3YouLi/profile-snake-contrib/github-contribution-grid-snake.svg" />
+</div>
   
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Art3YouLi/Art3YouLi/assets/images/hr.gif" />
 
+## 💪 正在学习
 <div align="center" >
-  
-<!--  skill badge 技能徽章 -->
-💪 正在学习
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
