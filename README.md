@@ -12,8 +12,8 @@
   <table>
   <tr><td>
   <p>&emsp;&emsp;大家好，我是Zeven</p>
-  <p>&emsp;&emsp;Welcome to my LandofLight project.</p>
-  <p>&emsp;&emsp;每一个工具项目我都会以一个奥特曼的名字命名，至于为什么，我也不知道，拍脑袋决定的......</p>
+  <p>&emsp;&emsp;Welcome to Land of Light.</p>
+  <p>&emsp;&emsp;每一个工具项目我都会以一个奥特曼的名字命名，至于为什么，我也不知道，拍脑袋决定的......这是我唯二的爱好~</p>
   <p><strong>&emsp;&emsp;这个库包含我所有的工具代码，设计各种语言、各种功能，谨以记录我的职业生涯！！！</strong></p>
   </td></tr>
   </table>
