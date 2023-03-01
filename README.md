@@ -83,11 +83,11 @@
 
 <!-- Awesome repo 比较好的仓库-->
 <a href="https://github.com/Art3YouLi/Jack">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Art3YouLi&repo=Pikachu&theme=dark&bg_color=121212&hide_border=true" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Art3YouLi&repo=Jack&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a href="https://github.com/Art3YouLi/Art3YouLi">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Art3YouLi&repo=Art3YouLi&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
  <a href="https://github.com/Art3YouLi/Seven">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Art3YouLi&repo=JavaSE&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Art3YouLi&repo=Seven&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
 </div>
 
 <div align="center">
