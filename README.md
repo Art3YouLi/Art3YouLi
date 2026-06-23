@@ -44,7 +44,7 @@
 
 <!-- 贪吃蛇贡献图 -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Art3YouLi/Art3YouLi/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
 </div>
 
 <hr style="border: 2px dashed #ccc; margin: 20px 0;" />
